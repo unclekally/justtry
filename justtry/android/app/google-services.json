@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465040701216",
+    "project_id": "justtry-c3e0d",
+    "storage_bucket": "justtry-c3e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465040701216:android:ff475c46c95a2ab2aa4945",
+        "android_client_info": {
+          "package_name": "com.example.justtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465040701216-2mb5l3a7ju6rds9l8065b6767gengnck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgUFNIFYE1ldOEFKN_2Yk4Uxlx9n949U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465040701216-2mb5l3a7ju6rds9l8065b6767gengnck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
